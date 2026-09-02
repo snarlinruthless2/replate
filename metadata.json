@@ -1,0 +1,6 @@
+{
+  "name": "REPLATE - Reduce. Reuse. Reimagine.",
+  "description": "Connect local food businesses with charities to share surplus food, reducing waste and feeding those in need while building community support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
